@@ -1,0 +1,14 @@
+src/
+├── components/
+│   ├── Navbar.jsx
+│   └── Footer.jsx
+│
+├── pages/
+│   ├── Dashboard.jsx
+│   ├── Adeudos.jsx
+│   ├── Avisos.jsx
+│   ├── Reportes.jsx
+│   └── Directorio.jsx
+│
+├── App.jsx
+└── main.jsx
