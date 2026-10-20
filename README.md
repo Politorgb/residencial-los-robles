@@ -144,4 +144,4 @@ Actualización del estado de las solicitudes.
 Autor
 Paul Alfredo Benítez Arroyo
 
-Proyecto académico desarrollado para la aplicación de React, Vite, GitHub y la metodología Scrum.
+Proyecto académico desarrollado para la aplicación de React, Vite, GitHub y la metodología Scrum.       
